@@ -1,0 +1,3 @@
+funcionejemplo  KEYWORD1
+Palabra1	KEYWORD2
+Palabra2	KEYWORD3
